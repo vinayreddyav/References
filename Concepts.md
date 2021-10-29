@@ -1,23 +1,10 @@
-### Climate Change
-#### Reduce your digital footprint
-- Extend the lifespan of your device or choose refurbished devices
-- Use emails and cc mindfully, send links instead of attachment
-- Use your camera wisely, for example at the beginning / end of your calls and when speaking
-- Lower video definition when you do not need high quality, take learning in audio format
-- Manage your data storage: avoid files duplication, suppress old files you do not need anymore
-- Turn off your equipment
+### Post Incident Repsonse
 
-#### Travel & commuting
-- Limit business travel
-- Favor train as much as possible
-- Use car when necessary and prefer bike, walk or public transportation
-
-#### While working from home
-- Use less AC or less heating
-- Switch to LED lights
-- Reduce meat consumption
-- Use the stairs instead of elevators
-
+- detection: when we first notice that there is a problem (ideally from our monitoring system before a customer notices or complains)
+- response: we snap into action, engage our incident response process, attempt to triage the situation and respond with urgency
+- remediation: we work to determine the problem and work towards bringing the system or service back to working order
+- analysis: after the incident, we attempt to learn from the experience, perhaps determining things we may want to change in the system or our process
+- readiness: we make changes based on what we learned that can improve our reliability and the context (processes, etc.) around it.
 
 --------------------------------------------------------------------------------------------------
 ### Blameless postmortems
