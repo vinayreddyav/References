@@ -8,4 +8,13 @@
 - [Automated dependency updates with Dependabot](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/configuring-dependabot-security-updates)
 - [Automated code scanning](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning#about-code-scanning)
 - [Secret scanning](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-secret-scanning)
+
+
+## Readme file Guide
+- Articulate the purpose and vision of the project so potential consumers understand whether it fits their needs.
+- Offer visual aids, such as screenshots or code samples, to illustrate the project in action.
+- Include a link to a production or demo version of the app for review.
+- Set expectations for prerequisites and deployment procedures. If the project has disqualifying prerequisites, then let potential users know early.
+- Include references to projects you depend on. Visitors may only need to use one of the projects you depend on to meet their needs, and this will save everyone time. It's also a good way to promote the work of others.
+- Make use of Markdown to guide readers through properly formatted content.
                                             
